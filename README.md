@@ -22,7 +22,7 @@ main ()
   cout << "this is test";
 }
 ```  
-## __Add "std::" infront of the cout__
+## __Add "std::" in front of the cout__
 ```c++
 // iostream stands for input output stream
 #include <iostream>

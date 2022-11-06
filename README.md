@@ -3,7 +3,8 @@
 2. In here, the following issues are displayed in the code file:  
 * Variables  
 * Types of variables  
-* Downloading data from the input
+* Downloading data from the input  
+* Arithmetic and Assigment Operators
 ```c++
 // iostream stands for input output stream
 #include <iostream>

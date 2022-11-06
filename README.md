@@ -1,5 +1,7 @@
 # C++
-This repository is the basic things for C++
+This repository is the basic things for C++  
+In here, the following issues are displayed in the code file:  
+
 ```c++
 // iostream stands for input output stream
 #include <iostream>

@@ -15,9 +15,11 @@ main ()
 // iostream stands for input output stream
 #include <iostream>
 using namespace std;
+
 main ()
 {
   //cout stands for Console Output, "this is test" will be sent to the Console Output
   cout << "this is test";
 }
 ```
+**Now you can run your code :)**

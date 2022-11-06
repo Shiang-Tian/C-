@@ -1,7 +1,9 @@
 # C++
 This repository is the basic things for C++  
 In here, the following issues are displayed in the code file:  
-
+* Variables  
+* Types of variables  
+* Downloading data from the input
 ```c++
 // iostream stands for input output stream
 #include <iostream>

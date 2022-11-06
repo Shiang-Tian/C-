@@ -9,8 +9,8 @@ main ()
   cout << "this is test";
 }
 ```
-**This won't be able to run cause "cout" is inside a namespace, you need to add "using namespace" or "std::", see the following code:**  
-##1. Add "using namespace" 
+**This won't be able to run cause "cout" is inside a namespace, you need to add "using namespace" or "std::", see the following code:**    
+## __Add "using namespace"__
 ```c++
 // iostream stands for input output stream
 #include <iostream>
@@ -22,7 +22,7 @@ main ()
   cout << "this is test";
 }
 ```  
-##2. Add "std::" infront of the cout
+## __Add "std::" infront of the cout__
 ```c++
 // iostream stands for input output stream
 #include <iostream>

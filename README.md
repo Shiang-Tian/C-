@@ -9,6 +9,7 @@ main ()
   cout << "this is test";
 }
 ```
+
 **This won't be able to run cause "cout" is inside a namespace, you need to add "using namespace" or "std::", see the following code: **
 
 ```c++

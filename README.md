@@ -1,6 +1,6 @@
 # C++
-This repository is the basic things for C++  
-In here, the following issues are displayed in the code file:  
+1. This repository is the basic things for C++  
+2. In here, the following issues are displayed in the code file:  
 * Variables  
 * Types of variables  
 * Downloading data from the input

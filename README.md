@@ -4,7 +4,7 @@
 * Variables  
 * Types of variables  
 * Downloading data from the input  
-* Arithmetic and Assigment Operators
+* Arithmetic and Assigment Operators  
 ```c++
 // iostream stands for input output stream
 #include <iostream>

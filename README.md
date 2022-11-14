@@ -7,6 +7,7 @@
 * Arithmetic and Assigment Operators  
 * Relational Operators  
 * Logical Operators
+* Bitwise Operators
 ```c++
 // iostream stands for input output stream
 #include <iostream>

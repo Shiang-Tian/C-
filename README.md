@@ -1,7 +1,5 @@
 # C++
-1. This repository is the basic things for C++  
-2. In here, the following issues are displayed in the code file: 
-
+This repository is the basic things for C++  
 <details open="open">
   <summary><b>Table of Contents</b></summary>
   <ol>

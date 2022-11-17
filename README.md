@@ -7,19 +7,10 @@
   <ol>
     <li>
       <a href="#Basics">Basics</a>
-    </li>
-    <li>
-      <a href="#the-gui">The GUI</a> 
-    </li>
-    <li>
-      <a href="#the-instructions-for-using-this-GUI">The Instructions for using this GUI</a>
       <ul>
-        <li><a href="#right-hand-side">Right-hand-side</a></li>
-        <li><a href="#left-hand-side">Left-hand-side</a>
-          <ul>
-            <li><a href="#buttons">Buttons</a></li>
-          </ul>
-        </li>  
+        <li><a href="#Variables">Variables</a></li>
+        <li><a href="#Types-of-Variables">Types of Variables</a></li>  
+        <li><a href="#Downloading-data-from-the-input">Downloading data from the input</a></li>
       </ul>
     </li>
     <li><a href="#the-csv-file-used-in-this-calendar">The csv file used in this calendar</a></li>

@@ -22,17 +22,16 @@
         <li><a href="#Bitwise-Operators">Bitwise Operators</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#Conditions">Conditions</a>
+      <ul>
+        <li><a href="#Conditional-Statements">Conditional Statements</a></li>
+        <li><a href="#Switch">Switch</a></li>
+      </ul>
+    </li>
   </ol>
 </details>
 
-* Variables  
-* Types of variables  
-* Downloading data from the input  
-* Arithmetic and Assigment Operators  
-* Relational Operators  
-* Logical Operators
-* Bitwise Operators
-* Conditional Statements
 ```c++
 // iostream stands for input output stream
 #include <iostream>

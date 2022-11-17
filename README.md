@@ -13,12 +13,13 @@
         <li><a href="#Downloading-data-from-the-input">Downloading data from the input</a></li>
       </ul>
     </li>
-    <li><a href="#the-csv-file-used-in-this-calendar">The csv file used in this calendar</a></li>
     <li>
-      <a href="#the-explanation-of-the-code">The explanation of the code</a>
+      <a href="#Operators">Operators</a>
       <ul>
-        <li><a href="#the-package-and-the-frame">The package and the frame</a></li>
-        <li><a href="#the-functions">The functions</a></li>
+        <li><a href="#Arithmetic-and-Assigment-Operators">Arithmetic and Assigment Operators</a></li>
+        <li><a href="#Relational-Operators">Relational Operators</a></li>  
+        <li><a href="#Logical-Operators">Logical Operators</a></li>
+        <li><a href="#Bitwise-Operators">Bitwise Operators</a></li>
       </ul>
     </li>
   </ol>

@@ -106,6 +106,6 @@ main ()
 * PRE Decrementation
 ## __Relational Operators__
 ```diff
-* The result of relation operation is always 0 or 1. 1 represents true, just like in bool variable. 0 represents false
-* We can also use exclamation marks to change value from true to false
+1. The result of relation operation is always 0 or 1. 1 represents true, just like in bool variable. 0 represents false
+2. We can also use exclamation marks to change value from true to false
 ```

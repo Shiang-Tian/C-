@@ -64,3 +64,6 @@ main ()
 }
 ```
 **Now you can run your code :)**
+
+#Basics
+##Variables

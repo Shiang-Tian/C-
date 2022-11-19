@@ -67,4 +67,9 @@ main ()
 
 # __Basics__
 ## __Variables__
-
+1. Variables can't have the same name
+2. Variables can't start from the number
+3. We can't use spaces
+4. Our variables should be self-descriptive
+5. Variables can't be constructed of special characters, keywords
+6. Variables should be nouns

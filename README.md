@@ -93,6 +93,7 @@ main ()
   bool
 ```
 # __Operators__
+## __Arithmetic and Assigment Operators__
 * Addition operation
 * Substraction operation
 * Multiplication

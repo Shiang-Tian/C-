@@ -104,3 +104,5 @@ main ()
 * PRE Incrementation
 * POST Decrementation
 * PRE Decrementation
+## __Relational Operators__
+The result of relation operation is always 0 or 1. 1 represents true, just like in bool variable. 0 represents false

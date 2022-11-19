@@ -75,6 +75,6 @@ main ()
 * Variables should be nouns
 
 ```diff
-  -short
+- short
 ```
 

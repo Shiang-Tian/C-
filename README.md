@@ -65,6 +65,6 @@ main ()
 ```
 **Now you can run your code :)**
 
+# __Basics__
+## __Variables__
 
-#Basics  
-##Variables

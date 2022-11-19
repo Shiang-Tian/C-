@@ -93,4 +93,13 @@ main ()
   bool
 ```
 # __Operators__
-
+* Addition operation
+* Substraction operation
+* Multiplication
+* Division
+* Incrementation
+* Decrementation
+* POST Incrementation
+* PRE Incrementation
+* POST Decrementation
+* PRE Decrementation

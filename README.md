@@ -73,3 +73,6 @@ main ()
 * Our variables should be self-descriptive
 * Variables can't be constructed of special characters, keywords
 * Variables should be nouns
+
+
+H<font color="#f00">e</font>llo, World

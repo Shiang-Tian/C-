@@ -74,7 +74,7 @@ main ()
 * Variables can't be constructed of special characters, keywords
 * Variables should be nouns
 
-```diff
-- short
+```c++
+  short
 ```
 

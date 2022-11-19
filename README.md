@@ -65,6 +65,7 @@ main ()
     </li>
   </ol>
 </details>
+
 # __Basics__
 ## __Variables__
 * Variables can't have the same name

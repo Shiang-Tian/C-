@@ -73,8 +73,25 @@ main ()
 * Our variables should be self-descriptive
 * Variables can't be constructed of special characters, keywords
 * Variables should be nouns
-
+## __Types of Variables__
 ```c++
+  //short means short integer
   short
+  
+  //float allocates 4 bytes of memory
+  float
+  
+  //double allocates a bytes of memory
+  //double can save more digits after the point
+  double
+  
+  //char is the abbreviation of the character
+  char
+  
+  //boolean | true or false, so false is always 0, every other number is true, 1 represents true
+  bool
+  
+ 
 ```
+
 

@@ -91,5 +91,5 @@ main ()
   //boolean | true or false, so false is always 0, every other number is true, 1 represents true
   bool
 ```
-
+# __Operators__
 

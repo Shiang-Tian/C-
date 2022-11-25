@@ -116,5 +116,6 @@ main ()
 * char
 2. Variable types you can't use:
 * double
-* string  
+* string 
+ 
 **You can't use "double" cause it has some precision number after the number, and it's hard to compare**

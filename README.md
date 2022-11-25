@@ -113,9 +113,9 @@ main ()
 ## __Switch__
 ```diff
 1. Variable types you can use: 
-   * int
-   * char
+* int
+* char
 2. Variable types you can't use:
-   * double
-   * string
+* double
+* string
 ```

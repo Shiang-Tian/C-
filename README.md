@@ -111,11 +111,10 @@ main ()
 ```
 # __Conditions__
 ## __Switch__
-```diff
 1. Variable types you can use: 
 * int
 * char
 2. Variable types you can't use:
 * double
 * string
-```
+

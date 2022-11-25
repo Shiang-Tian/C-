@@ -109,3 +109,4 @@ main ()
 1. The result of relation operation is always 0 or 1. 1 represents true, just like in bool variable. 0 represents false
 2. We can also use exclamation marks to change value from true to false
 ```
+## __Switch__

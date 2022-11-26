@@ -121,3 +121,6 @@ main ()
  
 **You can't use "double" cause it has some precision number after the number, and it's hard to compare**  
 ## __Conditional Operators__
+```c++
+ (a > b) ? "a > b" : "a <= b"
+```

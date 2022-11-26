@@ -125,3 +125,7 @@ If a is greater than b, then assign the message that is in " ". Else, a is less 
 ```c++
  (a > b) ? "a > b" : "a <= b"
 ```
+If e is greater than f, then chose e, else chose f. After chosing the largest one, then add 10 to it.
+```c++
+((e > f ? e : f) + 10 )
+```

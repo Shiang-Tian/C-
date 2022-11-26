@@ -121,11 +121,11 @@ main ()
  
 **You can't use "double" cause it has some precision number after the number, and it's hard to compare**  
 ## __Conditional Operators__
-If a is greater than b, then assign the message that is in " ". Else, a is less or equal to b
+1. If a is greater than b, then assign the message that is in " ". Else, a is less or equal to b
 ```c++
  (a > b) ? "a > b" : "a <= b"
 ```
-If e is greater than f, then chose e, else chose f. After chosing the largest one, then add 10 to it.
+2. If e is greater than f, then chose e, else chose f. After chosing the largest one, then add 10 to it.
 ```c++
 ((e > f ? e : f) + 10 )
 ```

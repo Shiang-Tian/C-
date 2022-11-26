@@ -17,7 +17,7 @@ main()
     int c = 50;
     int d = 20;
     //condition ? so instruction that will be executed if condition is true: if condition is not true;
-    //if a is greater than b, then assign the message that is in " ". Else, a is less or equal to b
+    //if c is greater than d, then assign the message that is in " ". Else, c is less or equal to d
     string message1 = (c > d) ? "c > d" : "c <= d";
 
     cout << message1 << endl;
@@ -25,7 +25,7 @@ main()
     int e = 30;
     int f = 20;
     //condition ? so instruction that will be executed if condition is true: if condition is not true;
-    //if a is greater than b, then assign the message that is in " ". Else, a is less or equal to b
+    //if e is greater than f, then assign the message that is in " ". Else, e is less or equal to f
     string message2 = (e > f) ? "e > f" : "e <= f";
     //if e > f, then chose e, else chose f
     cout << ((e > f ? e : f) + 10 ) << endl;

@@ -61,6 +61,7 @@ main ()
       <ul>
         <li><a href="#Conditional-Statements">Conditional Statements</a></li>
         <li><a href="#Switch">Switch</a></li>
+        <li><a href="#Conditional-Operators">Conditional Operators</a></li>
       </ul>
     </li>
   </ol>
@@ -118,4 +119,5 @@ main ()
 * double
 * string 
  
-**You can't use "double" cause it has some precision number after the number, and it's hard to compare**
+**You can't use "double" cause it has some precision number after the number, and it's hard to compare**  
+## __Conditional Operators__

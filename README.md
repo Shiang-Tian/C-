@@ -119,6 +119,8 @@ main ()
 * Bitwise OR --> |
 * Bitwise NOT --> ~ (tilde)
 * Bitwise XOR --> ^ (caret) exclusive OR
+* Bitwise left shift <<
+* Bitwise right shift >>
 # __Conditions__
 ## __Switch__
 1. Variable types you can use: 

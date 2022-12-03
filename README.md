@@ -116,8 +116,9 @@ main ()
 * OR disjunction: ||
 ## __Bitwise Operators__
 * Bitwise AND --> &
-
-
+* Bitwise OR --> |
+* Bitwise NOT --> ~ (tilde)
+* Bitwise XOR --> ^ (caret) exclusive OR
 # __Conditions__
 ## __Switch__
 1. Variable types you can use: 

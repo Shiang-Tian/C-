@@ -113,7 +113,7 @@ main ()
 ```
 
 ## __Logical Operators__
-
+* AND conjunction: &&
 
 # __Conditions__
 ## __Switch__

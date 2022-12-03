@@ -62,6 +62,7 @@ main ()
         <li><a href="#Conditional-Statements">Conditional Statements</a></li>
         <li><a href="#Switch">Switch</a></li>
         <li><a href="#Conditional-Operators">Conditional Operators</a></li>
+        <li><a href="#Calculator">Calculator</a></li>
       </ul>
     </li>
   </ol>

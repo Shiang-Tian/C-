@@ -114,7 +114,7 @@ main ()
 
 ## __Logical Operators__
 * AND conjunction: &&
-
+* OR disjunction: ||
 # __Conditions__
 ## __Switch__
 1. Variable types you can use: 

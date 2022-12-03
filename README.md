@@ -115,7 +115,7 @@ main ()
 * AND conjunction: &&
 * OR disjunction: ||
 ## __Bitwise Operators__
-
+* Bitwise AND --> &
 
 
 # __Conditions__

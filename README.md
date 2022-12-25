@@ -65,6 +65,12 @@ main ()
         <li><a href="#Calculator">Calculator</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#Arrays">Arrays</a>
+      <ul>
+        <li><a href="#Arrays">Arrays</a></li>
+        <li><a href="#Multidimensional-Arrays">Multidimensional Arrays</a></li>
+      </ul>
   </ol>
 </details>
 
@@ -140,3 +146,13 @@ main ()
 ```c++
 ((e > f ? e : f) + 10 )
 ```
+## __Calculator__
+* + Add
+* - Substract
+* * Multiply
+* / Divide
+# __Arrays__
+## __Arrays__
+The way of naming an array:
+* TYPE NAME[SIZE_NUMBER_OF_ELEMENTS]
+

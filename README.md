@@ -147,10 +147,10 @@ main ()
 ((e > f ? e : f) + 10 )
 ```
 ## __Calculator__
-+ Add
-- Substract
-* Multiply
-/ Divide
+* Add: +
+* Substract: -
+* Multiply: * 
+* Divide: /
 # __Arrays__
 ## __Arrays__
 The way of naming an array: TYPE NAME[SIZE_NUMBER_OF_ELEMENTS]

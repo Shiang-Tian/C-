@@ -153,6 +153,6 @@ main ()
 * / Divide
 # __Arrays__
 ## __Arrays__
-The way of naming an array:
-* TYPE NAME[SIZE_NUMBER_OF_ELEMENTS]
+The way of naming an array: TYPE NAME[SIZE_NUMBER_OF_ELEMENTS]
+* int array[4]
 

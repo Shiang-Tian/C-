@@ -71,6 +71,14 @@ main ()
         <li><a href="#Arrays">Arrays</a></li>
         <li><a href="#Multidimensional-Arrays">Multidimensional Arrays</a></li>
       </ul>
+    </li>
+    <li>
+      <a href="#Loops">Loops</a>
+      <ul>
+        <li><a href="#for">for</a></li>
+        <li><a href="#while-and-do-while">While and Do While</a></li>
+      </ul>
+    </li>
   </ol>
 </details>
 

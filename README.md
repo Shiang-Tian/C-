@@ -75,7 +75,7 @@ main ()
     <li>
       <a href="#Loops">Loops</a>
       <ul>
-        <li><a href="#for">for</a></li>
+        <li><a href="#for-loop">For Loop</a></li>
         <li><a href="#while-and-do-while">While and Do While</a></li>
       </ul>
     </li>
@@ -172,3 +172,10 @@ int biArrays[3][4] = {0};
 cout << &biArrays[0] << endl;
 cout << &biArrays[0][0] << endl;
 ```
+# __Loops__
+## __For Loop__
+```c++
+//infinite loop
+for (;;)
+cout << "lala" << endl;
+ ```

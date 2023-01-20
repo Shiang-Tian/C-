@@ -177,5 +177,5 @@ cout << &biArrays[0][0] << endl;
 ```c++
 //infinite loop
 for (;;)
-cout << "lala" << endl;
+    cout << "lala" << endl;
  ```

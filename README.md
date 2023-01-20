@@ -155,4 +155,12 @@ main ()
 ## __Arrays__
 The way of naming an array: TYPE NAME[SIZE_NUMBER_OF_ELEMENTS]
 * int array[4]
+## __Multidimensional Arrays__
+```c++
+int biArrays[3][4] = {0};
 
+//checking the address of the array
+//The address of biArrays[0] and biArrays[0][0] are the same
+cout << &biArrays[0] << endl;
+cout << &biArrays[0][0] << endl;
+```

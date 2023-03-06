@@ -178,4 +178,38 @@ cout << &biArrays[0][0] << endl;
 //infinite loop
 for (;;)
     cout << "lala" << endl;
- ```
+```
+## __While and Do While__
+### __While__
+```c++
+const int SIZEOFARRAY = 10;
+int q = 0;
+int array[SIZEOFARRAY];
+//We can get the same result using the methods below
+//1.
+while (q < SIZEOFARRAY)
+{
+  array[q] = 10 * q;
+  cout << array[q] << endl;
+  q++;
+}
+//2.
+while (q < SIZEOFARRAY)
+{
+  array[q] = 10 * q;
+  cout << array[q++] << endl;
+}
+```
+### __Do While__
+```c++
+do
+{
+  cout << "lala";
+}
+while(q);
+```
+**This won't be executed at all**
+```c++
+while (q)
+  cout << "lalala";
+```

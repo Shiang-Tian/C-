@@ -77,6 +77,7 @@ main ()
       <ul>
         <li><a href="#for-loop">For Loop</a></li>
         <li><a href="#while-and-do-while">While and Do While</a></li>
+        <li><a href="#exercises-and-nested-loop">Exercises and Nested Loop</a></li>
       </ul>
     </li>
   </ol>
@@ -212,4 +213,17 @@ do
   cout << "lala";
 }
 while(q);
+```
+## __Exercises and Nested Loop__
+```c++
+//15 rows and 12 columns
+for (int i = 1; i <= 15; i++)
+{
+  for (int j = 1; j <= 12; j++)
+  {
+    cout.width(4);
+    cout << i * j;
+  }
+  cout << endl;
+}
 ```

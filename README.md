@@ -200,6 +200,11 @@ while (q < SIZEOFARRAY)
   cout << array[q++] << endl;
 }
 ```
+**This won't be executed at all**
+```c++
+while (q)
+  cout << "lalala";
+```
 ### __Do While__
 ```c++
 do
@@ -207,9 +212,4 @@ do
   cout << "lala";
 }
 while(q);
-```
-**This won't be executed at all**
-```c++
-while (q)
-  cout << "lalala";
 ```

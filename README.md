@@ -78,6 +78,7 @@ main ()
         <li><a href="#for-loop">For Loop</a></li>
         <li><a href="#while-and-do-while">While and Do While</a></li>
         <li><a href="#exercises-and-nested-loop">Exercises and Nested Loop</a></li>
+        <li><a href="#break-and-continue">Break and Continue</a></li>
       </ul>
     </li>
   </ol>
@@ -225,5 +226,22 @@ for (int i = 1; i <= 15; i++)
     cout << i * j;
   }
   cout << endl;
+}
+```
+## __Break and Continue__
+### __Break__
+everything after BREAK WON'T be executed and we are leaving the actual loop
+#### __We won't see the rows after the fifth row__
+```c++
+for (int i = 1; i <= 10; i++) 
+{
+  if(i == 5)
+    break;
+  for (int j = 1; j <= 10; j++)
+  {
+    cout.width(4);
+    cout << i*j;
+  }
+  cout << enddl;
 }
 ```

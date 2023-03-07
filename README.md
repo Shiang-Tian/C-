@@ -262,6 +262,32 @@ for (int i = 1; i <= 10; i++)
 ```
 ### __Continue__
 Everything after **CONTINUE** instruction **WON'T** be executed but loop won't end because of it (we will skip the codes after **CONTINUE**)
-
-
-
+#### __We won't see the fifth row of all 10 rows__
+```c++
+for (int i = 1; i <= 10; i++)
+{
+  if (i == 5)
+    continue;
+  
+  for (int j = 1; j <= 10; j++)
+  {
+    cout.width(4)
+    cout << i * j;
+  }
+  cout << endl;
+}
+```
+#### __We won't see the fifth column of all 10 columns__
+```c++
+for (int i = 1; i <= 10; i++)
+{
+  for (int j = 1; j <= 10; j++)
+  {
+    if (j ==5)
+        continue;
+    cout.width (4);
+    cout << i * j;   
+  }
+  cout << 
+}
+```

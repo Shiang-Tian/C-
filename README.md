@@ -261,7 +261,7 @@ for (int i = 1; i <= 10; i++)
 }
 ```
 ### __Continue__
-Everything after **CONTINUE** instruction **WON'T** be executed but loop won't end because of it (we will skip the codes after **CONTINUE**)
+Everything after **CONTINUE** instruction **WON'T** be executed but loop won't end because of it  (we will skip the codes after **CONTINUE**)
 #### __We won't see the fifth row of all 10 rows__
 ```c++
 for (int i = 1; i <= 10; i++)

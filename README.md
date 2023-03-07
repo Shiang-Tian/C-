@@ -300,3 +300,5 @@ for (int i = 1; i <= 10; i++)
   cout << endl;
 }
 ```
+# __Functions__
+## __Pre-function Scope of Variables__

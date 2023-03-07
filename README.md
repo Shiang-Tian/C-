@@ -288,6 +288,6 @@ for (int i = 1; i <= 10; i++)
     cout.width (4);
     cout << i * j;   
   }
-  cout << 
+  cout << endl;
 }
 ```

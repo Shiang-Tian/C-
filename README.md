@@ -261,7 +261,7 @@ for (int i = 1; i <= 10; i++)
 }
 ```
 ### __Continue__
-Everything after **CONTINUE** instruction **WON'T** be executed but loop won't end because of it (we will skip the codes after ****)
+Everything after **CONTINUE** instruction **WON'T** be executed but loop won't end because of it (we will skip the codes after **CONTINUE**)
 
 
 

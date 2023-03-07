@@ -230,7 +230,7 @@ for (int i = 1; i <= 15; i++)
 ```
 ## __Break and Continue__
 ### __Break__
-everything after BREAK WON'T be executed and we are leaving the actual loop
+everything after **BREAK** **WON'T** be executed and we are leaving the actual loop
 #### __We won't see the rows after the fifth row__
 ```c++
 for (int i = 1; i <= 10; i++) 

@@ -81,6 +81,15 @@ main ()
         <li><a href="#break-and-continue">Break and Continue</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#Functions">Functions</a>
+      <ul>
+        <li><a href="#pre-function-scope-of-variables">Pre-function Scope of Variables</a></li>
+        <li><a href="#functions">Functions</a></li>
+        <li><a href="#functions-return-and-invoke-explained-in-text">Functions-return, and invoke explained in text</a></li>
+        <li><a href="#overloading-functions">Overloading Funcitons</a></li>
+      </ul>
+    </li>
   </ol>
 </details>
 

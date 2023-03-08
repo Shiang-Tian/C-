@@ -303,3 +303,4 @@ for (int i = 1; i <= 10; i++)
 # __Functions__
 ## __Pre-function Scope of Variables__
 Global variables can be used everywhere, but local variables only can be used in the bracket
+## __Functions__

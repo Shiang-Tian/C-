@@ -304,3 +304,7 @@ for (int i = 1; i <= 10; i++)
 ## __Pre-function Scope of Variables__
 Global variables can be used everywhere, but local variables only can be used in the bracket
 ## __Functions__
+#### __Inline function__
+```c++
+double add (double a, double b) {return a + b;}
+```

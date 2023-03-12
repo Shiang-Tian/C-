@@ -312,7 +312,7 @@ double add (double a, double b) {return a + b;}
 What **return** does? What does it mean to **return** value? 
 > You **return** values **FROM** function, not **TO** the function.   
 > When computer **invokes** a function so when it meets a function **name** with added **parentheses** so something like that:  
-**functionName()**;
+**functionName()**;  
 computer **JUMPS** to the declaration of the function.  
 > So **invoking** means **jumping** and **executing** code from **body** (between curly brackets) of function.
 > Computer **invokes** every instruction inside its **body** and then it **comes back** to the place of **invocation** (name of the function).

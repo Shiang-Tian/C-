@@ -317,7 +317,7 @@ computer **JUMPS** to the declaration of the function.
 > So **invoking** means **jumping** and **executing** code from **body** (between curly brackets) of function.
 > Computer **invokes** every instruction inside its **body** and then it **comes back** to the place of **invocation** (name of the function).
 > The process of **coming back** is called **returning**.
-> **return** instruction allows you to return with a **value** and relpace the invoked function with the **returned** value.  
+> **return** instruction allows you to return with a **value** and relpace the invoked function with the **returned** value.    
 So when you have a function for example:
 ```c++
 int addition (int a, int b)

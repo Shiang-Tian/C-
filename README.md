@@ -319,14 +319,14 @@ computer **JUMPS** to the declaration of the function.
 > The process of **coming back** is called **returning**.
 > **return** instruction allows you to return with a **value** and relpace the invoked function with the **returned** value.    
 So when you have a function for example:
-> ```c++
+```c++
 int addition (int a, int b)
 {
   int result;
   result = a + b;
   return result;
 }
-> ```
-and you **invoke** it like that:  
+```
+> and you **invoke** it like that:  
 addition(4, 5);    
-Computer **jumps** to the body of the function. Executes all instructions from line 3-4. And when it "meets" **return** keyword it **returns** to the place where the function was **invoked**. When computer returns to that place it **replaces** name of the function including everything that was inside parentheses by the value that was **returned**.
+> Computer **jumps** to the body of the function. Executes all instructions from line 3-4. And when it "meets" **return** keyword it **returns** to the place where the function was **invoked**. When computer returns to that place it **replaces** name of the function including everything that was inside parentheses by the value that was **returned**.

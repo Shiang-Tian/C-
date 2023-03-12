@@ -310,6 +310,6 @@ double add (double a, double b) {return a + b;}
 ```
 #### __Functions - return, and invoke__
 What **return** does? What does it mean to **return** value? 
-> You **return** values **FROM** function, not **TO** the function  
+> You **return** values **FROM** function, not **TO** the function   
 > When computer **invokes** a function so when it meets a function **name** with added **parentheses** so something like that:  
 **functionName()**;

@@ -327,3 +327,6 @@ int addition (int a, int b)
   return result;
 }
 ```
+and you **invoke** it like that:  
+addition(4, 5);    
+Computer **jumps** to the body of the function. Executes all instructions from line 3-4. And when it "meets" **return** keyword it **returns** to the place where the function was **invoked**. When computer returns to that place it **replaces** name of the function including everything that was inside parentheses by the value that was **returned**.

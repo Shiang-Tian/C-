@@ -349,5 +349,5 @@ It's the same as if you had written:
 ```c++
 cout << 9;
 ```
-**To sum up: **    
+__To sum up:__   
 **return** keyword allows you to return to the place where function was invoked and return the value that is placed after return keyword. 

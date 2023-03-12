@@ -310,6 +310,20 @@ double add (double a, double b) {return a + b;}
 ```
 #### __Functions - return, and invoke__
 What **return** does? What does it mean to **return** value? 
-> You **return** values **FROM** function, not **TO** the function   
+> You **return** values **FROM** function, not **TO** the function.   
 > When computer **invokes** a function so when it meets a function **name** with added **parentheses** so something like that:  
 **functionName()**;
+computer **JUMPS** to the declaration of the function.  
+> So **invoking** means **jumping** and **executing** code from **body** (between curly brackets) of function.
+> Computer **invokes** every instruction inside its **body** and then it **comes back** to the place of **invocation** (name of the function).
+> The process of **coming back** is called **returning**.
+> **return** instruction allows you to return with a **value** and relpace the invoked function with the **returned** value.
+So when you have a function for example:
+```c++
+int addition (int a, int b)
+{
+  int result;
+  result = a + b;
+  return result;
+}
+```

@@ -86,7 +86,6 @@ main ()
       <ul>
         <li><a href="#pre-function-scope-of-variables">Pre-function Scope of Variables</a></li>
         <li><a href="#functions">Functions</a></li>
-        <li><a href="#functions-return-and-invoke-explained-in-text">Functions-return, and invoke explained in text</a></li>
         <li><a href="#overloading-functions">Overloading Funcitons</a></li>
       </ul>
     </li>
@@ -351,3 +350,4 @@ cout << 9;
 ```
 __To sum up:__   
 **return** keyword allows you to return to the place where function was invoked and return the value that is placed after return keyword. 
+## __Overloading Funcitons__
